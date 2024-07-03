@@ -1,0 +1,155 @@
+TEST CASE 1
+
+Enter Abhimanyu power p :50
+Enter Abhimanyu skip power a :5
+Enter Abhimanyu recharge power b :10
+
+Inner circle :1
+Enemy power k[i] :10
+Abhimanyu power before p :50
+Skip power a :5
+Recharge power b :10
+Abhimanyu power after fight p :40
+
+Inner circle :2
+Enemy power k[i] :20
+Abhimanyu power before p :40
+Skip power a :5
+Recharge power b :10
+Abhimanyu power after fight p :20
+
+Inner circle :3
+Enemy power k[i] :30
+Abhimanyu power before p :20
+Skip power a :4
+Recharge power b :10
+Abhimanyu power after fight p :20
+
+Inner circle :4
+Enemy power k[i] :55
+Abhimanyu power before p :20
+Skip power a :3
+Recharge power b :10
+Abhimanyu power after fight p :20
+
+Inner circle :5
+Enemy power k[i] :50
+Abhimanyu power before p :20
+Skip power a :2
+Recharge power b :10
+Abhimanyu power after fight p :20
+
+Inner circle :6
+Enemy power k[i] :60
+Abhimanyu power before p :20
+Skip power a :1
+Recharge power b :10
+Abhimanyu power after fight p :20
+
+Inner circle :7
+Enemy power k[i] :70
+Abhimanyu power before p :20
+Skip power a :0
+Recharge power b :10
+Abhimanyu power after fight p :20
+
+Inner circle :8
+Enemy power k[i] :115
+Abhimanyu power before p :50
+Skip power a :0
+Recharge power b :9
+Abhimanyu power after fight p :-65
+
+Abhimanyu lost at circle : 8
+
+=== Code Execution Successful ===
+
+
+
+TEST CASE 2
+
+
+Enter Abhimanyu power p :100
+Enter Abhimanyu skip power a :10
+Enter Abhimanyu recharge power b :2
+
+Inner circle :1
+Enemy power k[i] :10
+Abhimanyu power before p :100
+Skip power a :10
+Recharge power b :2
+Abhimanyu power after fight p :90
+
+Inner circle :2
+Enemy power k[i] :20
+Abhimanyu power before p :90
+Skip power a :10
+Recharge power b :2
+Abhimanyu power after fight p :70
+
+Inner circle :3
+Enemy power k[i] :30
+Abhimanyu power before p :70
+Skip power a :10
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Inner circle :4
+Enemy power k[i] :55
+Abhimanyu power before p :40
+Skip power a :9
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Inner circle :5
+Enemy power k[i] :50
+Abhimanyu power before p :40
+Skip power a :8
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Inner circle :6
+Enemy power k[i] :60
+Abhimanyu power before p :40
+Skip power a :7
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Inner circle :7
+Enemy power k[i] :70
+Abhimanyu power before p :40
+Skip power a :6
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Inner circle :8
+Enemy power k[i] :115
+Abhimanyu power before p :40
+Skip power a :5
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Inner circle :9
+Enemy power k[i] :90
+Abhimanyu power before p :40
+Skip power a :4
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Inner circle :10
+Enemy power k[i] :100
+Abhimanyu power before p :40
+Skip power a :3
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Inner circle :11
+Enemy power k[i] :110
+Abhimanyu power before p :40
+Skip power a :2
+Recharge power b :2
+Abhimanyu power after fight p :40
+
+Abhimanyu won the fight 
+
+=== Code Execution Successful
